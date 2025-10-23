@@ -140,13 +140,9 @@ Integrar vídeos e animações na web.
 
 Realizar deploy profissional na Vercel.
 
-📸 Prévia
-
-(Adicione aqui uma imagem ou GIF da Landing Page, ex: /src/assets/preview.png)
-
 🧑‍💻 Autor
 
 Desenvolvido por [Fabiano Forte Ferreira]
-💼 GitHub: https://github.com/seunome
+💼 GitHub: https://github.com/fabianofforte
 
-🌐 Versão Web: https://seusite.com
+🌐 Versão Web: https://seusite.com](https://landing-page-react-tailwind-css-pi.vercel.app/
